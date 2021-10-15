@@ -1,0 +1,41 @@
+h1{
+    font-family: 'Morpheus', sans-serif;
+    margin: auto;
+    margin-left:  355px;
+    color: firebrick;
+}
+
+div{
+    display: flex;
+justify-content: center; 
+margin-top: 50px;
+}
+ul {
+	margin:0;
+	margin-left:  355px; 
+	padding:0;
+	width:700px;
+    margin-top: 30px;
+    list-style: none;
+}
+li{
+    font-family: 'morpheus',sans-serif;
+    padding: 10px;
+    color: white ;
+     
+}
+button{
+    margin-left: 50px;
+    background-color: rgb(187, 11, 40);
+    border-color: black;
+}
+input{
+    width: 600px;
+    font-family: 'morpheus',sans-serif;
+    font-size: medium;
+}
+body{
+    background-image: url('https://wallpapercave.com/wp/wp3023715.jpg');
+    background-size: 100% 1000px;
+    background-repeat: no-repeat;
+}
